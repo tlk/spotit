@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="full" width="200" height="250" viewBox="0 0 200 225" preserveAspectRatio="xMidYMid meet" xmlns:v="https://github.com/tlk" style="border:1px solid black; background:white">
+
+<style><![CDATA[text {font-size:42px; text-anchor:middle}]]></style>
+
+<title>TITLE</title>
+
+<text x="050" y="050">S1</text>
+<text x="050" y="100">S2</text>
+<text x="050" y="150">S3</text>
+<text x="050" y="200">S4</text>
+<text x="150" y="050">S5</text>
+<text x="150" y="100">S6</text>
+<text x="150" y="150">S7</text>
+<text x="150" y="200">S8</text>
+
+</svg>
